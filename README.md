@@ -1,6 +1,17 @@
-## Simple React Calculator,
+## Simple React Calculator
 ## Installation
 * `Clone the repository`
-* `Yarn or npm i`
+* ```bash
+yarn
+```
+or 
+```bash
+npm i
+```
+
 * ``
+## Steps to run tests
+* ```bash
+yarn cypress:open
+```
 #Created By Gasaro Leila
